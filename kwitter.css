@@ -1,0 +1,13 @@
+body
+{
+background-color: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+background-image: url("xxv.png");
+background-size: cover;
+}
+
+#user_name
+{
+    width: 200px;
+    height: 25px;
+}
+
